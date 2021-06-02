@@ -7,3 +7,6 @@ composer.phar
 
 # ignore pngs
 *.png
+*.jpg
+*.jpeg
+*.gif
